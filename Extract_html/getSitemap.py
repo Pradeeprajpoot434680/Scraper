@@ -9,7 +9,7 @@ import google.generativeai as genai
 # -------------------------------
 # 1. Configure Gemini API
 # -------------------------------
-genai.configure(api_key="AIzaSyAq4ErUni6wtiM-RYFvq0mgFN0U8a1YAEA")
+genai.configure(api_key="Your-api-key")
 
 # Make sure the raw_pages folder exists
 os.makedirs("raw_pages", exist_ok=True)
