@@ -1,0 +1,34 @@
+# Web scraping / HTTP
+requests
+beautifulsoup4
+lxml
+
+# Environment variables
+python-dotenv
+
+# PDF processing
+PyMuPDF
+easyocr
+
+# OCR backend for easyocr
+torch
+torchvision
+torchaudio
+
+# NLP / zero-shot classification
+transformers
+sentence-transformers
+scikit-learn
+torch
+
+# LLM / Embeddings
+llama-index
+google-generativeai
+
+# Vector DB
+weaviate-client
+
+# Utilities
+pandas
+tqdm
+
